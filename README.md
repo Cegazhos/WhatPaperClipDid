@@ -4,5 +4,5 @@
 This Repository mainly records PaperClip's deeds from the start of operations to the announcement of its suspension.The producer of the paper clips is **WuXlei**.Due to the long period of time, Info's errors in collection may occur. If there are omissions or errors, please tell me.
 
 ---
-
+如果你愿意帮忙补充信息、提出建议或者参与进来，可以提起Issues或者发邮件到cegazhos@gmail.com
 
