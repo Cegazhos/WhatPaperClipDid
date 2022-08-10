@@ -1,8 +1,20 @@
-### 介绍(Introduction)
-该仓库主要是记录PaperClip科普从开始运营到宣布停更期间的事迹。PaperClip的制作人为**吴某磊**。由于时间久远，收集信息的过错难免会有疏漏发生。如有遗漏或错误，恳请指出。
+** 介绍(Introduction)
+该仓库主要是记录PaperClip科普从开始运营到被封杀期间的事迹。PaperClip的制作人为**吴某磊**。由于时间久远，收集信息的过错难免会有疏漏发生。如有遗漏或错误，恳请指出。
 
 This Repository mainly records PaperClip's deeds from the start of operations to the announcement of its suspension.The producer of the paper clips is **WuXlei**.Due to the long period of time, Info's errors in collection may occur. If there are omissions or errors, please tell me.
 
----
+*** 由于建库时间过晚，陈睿公司已经删除了PaperClip主页。这导致本人无法提PaperClip取以前的事迹。未来，可能在油管提取补充。
+
+*** 20210618 自媒体赛雷话金开始发视频锤PaperClip
+- [[https://www.bilibili.com/video/BV1jV411s7Gp][不让中国人吃海鲜背后真正的大瓜，今天我来统一告诉大家]] 2021-06-18 20:58:38
+- [[https://www.bilibili.com/video/BV1Yw411o7uY][这一仗，打平就是输]] 2021-06-22 21:15:24
+- [[https://www.bilibili.com/video/BV1NV411x7Jk][讨 回 形 针 檄 【史图馆】]] 2021-06-27 18:10:11
+- [[https://www.bilibili.com/video/BV1Uy4y1T77t][回形针洗白指南]] 2021-06-27 19:00:21
+- [[https://www.bilibili.com/video/BV1a54y1E7ug][7天后关于714事件的一些回顾和感悟]] 2021-07-20 17:59:59
+
+  
+**
 如果你愿意帮忙补充信息、提出建议或者参与进来，可以提起Issues或者发邮件到cegazhos@gmail.com
+
+* 停止维护
 
